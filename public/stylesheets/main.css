@@ -199,6 +199,16 @@ a:focus, a:hover {
   background-size: cover;
 } */ /* LOOK HERE */
 
+.contact-section {
+  color: white;
+  /* background: url("/images/new-york-skyline-and-blue-sky.jpg") no-repeat center center scroll; */
+  background-color: rgb(10,44,61);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} /* LOOK HERE */
+
 #map {
   width: 100%;
   height: 300px;
